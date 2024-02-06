@@ -5,9 +5,9 @@ Podla vlastného uváženia si zvoľte jednu z možností a ak budete veľmi ši
 
 Riešenia k úlohám sú nižšie ale nepozerajte si ich kým vám to nefunguje.
 ## Dávajte si pozor na:
-  • preklepy v slovíčkach
-  • medzery a odsadenie riadkou (nech je kód v blokoch ako sme si vraveli, používajte TABULATOR na odsadzovanie)
-  • dvojbodku za funkciou, loopom, podmienkou if, atď
-  • čítajte červené chybové hlášky, oni vám povedia kde je chyba
+  ### • preklepy v slovíčkach
+  ### • medzery a odsadenie riadkou (nech je kód v blokoch ako sme si vraveli, používajte TABULATOR na odsadzovanie)
+  ### • dvojbodku za funkciou, loopom, podmienkou if, atď
+  ### • čítajte červené chybové hlášky, oni vám povedia kde je chyba
 
 ## Po vyprecovaní zdvihnite ruku
