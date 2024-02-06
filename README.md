@@ -10,4 +10,4 @@ Riešenia k úlohám sú nižšie ale nepozerajte si ich kým vám to nefunguje.
   #### • dvojbodku za funkciou, loopom, podmienkou if, atď
   #### • čítajte červené chybové hlášky, oni vám povedia kde je chyba
 
-## Po vyprecovaní zdvihnite ruku
+## Po vypracovaní zdvihnite ruku a odprezentujte 
