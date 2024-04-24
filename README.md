@@ -1,13 +1,17 @@
-# Programko-korytna-ka-6.2
+# Programko materiály
 
-Sú vám k dispozícii 2 typy dokumentov jeden s ľahkými (s poloriešenými) a druhý s ťažšími (bez nápovied)
-Podla vlastného uváženia si zvoľte jednu z možností a ak budete veľmi šikovný tak môžte spraviť obe.(platí pre tých čo začnú s ľahšou)
+Sú vám k dispozícii 4 typy dokumentov odporúčam ísť v poradí a pochopiť danú tématiku čo najviac (netreba do podrobnosti ale aby ste vedeli dané informácie využiť v rôznych situáciách) 
 
-Riešenia k úlohám sú nižšie ale nepozerajte si ich kým vám to nefunguje.
+## Odporúčam:
+  #### • Prejsť si všetky príklady/úlohy
+  #### • Vrátiť sa k danej tématike viackrát a viac do hlbky
+  #### • Pristupovať metódou skús sám a opravuj
+
 ## Dávajte si pozor na:
   #### • preklepy v slovíčkach
   #### • medzery a odsadenie riadkou (nech je kód v blokoch ako sme si vraveli, používajte TABULATOR na odsadzovanie)
   #### • dvojbodku za funkciou, loopom, podmienkou if, atď
   #### • čítajte červené chybové hlášky, oni vám povedia kde je chyba
 
-## Po vypracovaní zdvihnite ruku a odprezentujte 
+
+
