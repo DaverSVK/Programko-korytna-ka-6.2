@@ -9,7 +9,9 @@ def overVstup(hracovTah,mozneTahy):
 #funkcia, ktorá náhodne vykoná ťah oponenta
 def hernyTah(hracovTah):
     vysledok = 0
-    mozneTahy = ["kamen","papier","noznice"]
+#---Medzi toto dopisuj moznosti----------
+    
+#-------------------------------
     if(overVstup(hracovTah.lower(),mozneTahy)):
         moznost = randint(0,2)
         tahOponenta = mozneTahy[moznost]
