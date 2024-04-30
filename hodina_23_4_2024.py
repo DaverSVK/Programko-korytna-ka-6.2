@@ -4,7 +4,13 @@ def vypis(pole):
     print()
 
     return 0
-##-------------
+
+def kontrola(slovo1,slovo2):
+    for j in range(len(slovo1)):
+        if slovo1[j]!=slovo2[j]:
+            return True
+    return False
+
 
 def sibenica(obesenec,chyby):
     if chyby == 1:
@@ -19,10 +25,8 @@ def sibenica(obesenec,chyby):
         obesenec[4][2]="/"
     if chyby == 6:
         obesenec[4][4]="\\"
-# toto sa bude menit 4-----
 
-# -------------------------
-slovo = "Ahoj osveto!"
+slovo = "Ahoj"
 pole = ["-"]*len(slovo)
 print(slovo)
 vypis(pole)
@@ -36,12 +40,10 @@ obesenec = [[' ','_','_','_',' '],
             [' ','|',' ',' ',' '],
             [' ','|',' ',' ',' '],
             ['_','|','_','_','_'],]
-# toto sa bude menit 1-----
 
-# -------------------------
-# toto sa bude menit 2-----
-for opak in range(7):
-# -------------------------
+neuhadol = True
+
+while neuhadol:
     pismenoZ = input("Zadaj pismeno: ")
 
     i=0
@@ -69,6 +71,5 @@ for opak in range(7):
     if pocetChyb == 6:
         print("Konec")
         break
-# toto sa bude menit 3-----
+    neuhadol = kontrola(slovo,pole)
 
-# -------------------------
